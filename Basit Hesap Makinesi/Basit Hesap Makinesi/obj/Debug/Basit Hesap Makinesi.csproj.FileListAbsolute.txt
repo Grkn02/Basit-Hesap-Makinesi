@@ -1,0 +1,11 @@
+C:\Users\Gürkan\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\Basit Hesap Makinesi.exe.config
+C:\Users\Gürkan\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\Basit Hesap Makinesi.exe
+C:\Users\Gürkan\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\Basit Hesap Makinesi.pdb
+C:\Users\Gürkan\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\Gürkan\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gürkan\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit_Hesap_Makinesi.Form1.resources
+C:\Users\Gürkan\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit_Hesap_Makinesi.Properties.Resources.resources
+C:\Users\Gürkan\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\Gürkan\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Gürkan\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.exe
+C:\Users\Gürkan\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.pdb
